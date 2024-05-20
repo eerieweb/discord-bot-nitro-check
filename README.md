@@ -1,5 +1,5 @@
 # discord-bot-nitro-check
-a script to know if a user has nitro or not (simply)
+a script to know if a user has nitro or not (simply) STATUT: AVAILABLE 20/05/2024
 
 for install :
 
